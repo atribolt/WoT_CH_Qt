@@ -1,0 +1,6 @@
+.git
+*.a
+*.dll
+*.exe
+*.lib
+*.user*
